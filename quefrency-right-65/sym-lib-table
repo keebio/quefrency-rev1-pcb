@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name spectrogram-right-rescue)(type Legacy)(uri ${KIPRJMOD}/spectrogram-right-rescue.lib)(options "")(descr ""))
+  (lib (name quefrency-right-65-rescue)(type Legacy)(uri ${KIPRJMOD}/quefrency-right-65-rescue.lib)(options "")(descr ""))
+)

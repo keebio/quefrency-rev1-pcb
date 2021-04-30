@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name spectrogram-left-rescue)(type Legacy)(uri ${KIPRJMOD}/spectrogram-left-rescue.lib)(options "")(descr ""))
+  (lib (name quefrency-left-macro-rescue)(type Legacy)(uri ${KIPRJMOD}/quefrency-left-macro-rescue.lib)(options "")(descr ""))
+)
